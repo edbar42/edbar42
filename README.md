@@ -1,5 +1,5 @@
 # Eduardo Barroso
- *`Aspiring Polymath ( Linux & NeoVim User / Digital Privacy Enthusiast)`*
+ **`Aspiring Polymath ( Linux & NeoVim User / Digital Privacy Enthusiast)`**
 
   I am a Computer Science undergrad student who's very enthusiastic about learning. From the beginning, I find myself drawn to the more fundamental subjects like Computer Architecture, Data Structures and Algorithms. I also study back-end software development at [boot.dev](boot.dev). 
   
