@@ -1,13 +1,11 @@
-# Eduardo Barroso
+# 🤘 Eduardo Barroso
  **`Aspiring Polymath (Linux & NeoVim User / Digital Privacy Enthusiast)`**
 
-  I am a Computer Science undergrad student who's very enthusiastic about learning. From the beginning, I find myself drawn to the more fundamental subjects like Computer Architecture, Data Structures and Algorithms. I also study back-end software development at [boot.dev](boot.dev). 
+  I am a Computer Science undergrad student who's very enthusiastic about learning. Ever since I started studying, I find myself drawn to the more fundamental subjects like Computer Architecture, Data Structures and Algorithms. I am also a back-end software development student at [boot.dev](boot.dev). 
   
   **Based in Brazil 🇧🇷**
 
-#
-
-# Languages and Tools I've Used Recently
+# 🖥️ Languages and Tools I've Used Recently
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
@@ -29,7 +27,7 @@
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-#
+# 
 
 <details><summary><h2> My Odissey</h2></summary>
  When I first got into college, I joined a Physics undergrad program looking to follow the academic path all the way to a PhD in Cosmology. Sadly, there were some hiccups along the way and I had to take myself away from college for a few years. When things settled and I could go back to full time studying, I decided that I needed a career path that didn't involve 10 years of intensive academic training followed by applying for jobs as a professor to become affordable. Now why go from that to getting a computer science degree and trying to code for a living?
