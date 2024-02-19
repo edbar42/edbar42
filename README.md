@@ -1,7 +1,7 @@
-# 🤘 Eduardo Barroso
- **`Aspiring Polymath (Linux & NeoVim User / Digital Privacy Enthusiast)`**
+# Hi, I'm Eduardo Barroso
 
-  I am a Computer Science undergrad student who's very enthusiastic about learning. Ever since I started studying, I find myself drawn to the more fundamental subjects like Computer Architecture, Data Structures and Algorithms. I am also a back-end software development student at [boot.dev](https://boot.dev). 
+  - 🎒 Computer Science undergrad at [Unifor](unifor.br)
+  - 🖥️ Back-end software development student at [boot.dev](https://boot.dev)
   
   **Based in Brazil 🇧🇷**
 
