@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Barroso
 
-  [edbar.xyz](edbar.xyz)
+  [edbar.xyz](https://www.edbar.xyz)
 
   - 🎓 Computer Science student at [Unifor](https://unifor.br)
   - 🧑‍💻 Back-end development student at [boot.dev](https://boot.dev)
