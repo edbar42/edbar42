@@ -7,4 +7,4 @@
 
   **🇧🇷 Based in Brazil 🇧🇷**
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edbar42&theme=chartreuse-dark&hide=php)](https://github.com/edbar42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edbar42&theme=one_dark_pro&hide=php)](https://github.com/edbar42)
