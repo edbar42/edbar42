@@ -1,16 +1,16 @@
-## Hi there 👋
+# Eduardo Barroso
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; border: none;">
+      <p>Back-end Web Developer focused on Go.</p>
+      <p>Computer Science undergrad.</p>
+      <p>Ditch your mouse. Embrace the CLIs.</p>
+    </td>
+    <td style="vertical-align: top; border: none;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edbar42&layout=compact&theme=tokyonight" alt="Top Langs">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**edbar42/edbar42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
