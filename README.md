@@ -15,9 +15,9 @@ I strive to create robust applications that reflect these principles.
 <tr>
 <td width="50%" valign="top">
 
-**Languages**: Go, Python, Elm
+**Languages**: Go, Python, Elixir, Java
 
-**Frameworks**: Echo, Flask, Quart
+**Frameworks**: Echo, Flask, Quart, Phoenix
 
 **Platforms**: GitHub, Vercel, Render
 
