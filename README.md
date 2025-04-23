@@ -18,11 +18,14 @@ I strive to create robust applications that reflect these principles.
 <tr>
 <td width="50%" valign="top">
 
-**Languages**: Go, Python, Elixir, Java
+**Languages**: 
+- Go, JS/TS, Elixir, Java
 
-**Frameworks**: Echo, Flask, Quart, Phoenix
+**Frameworks**: 
+- Gin, Echo, Node, Phoenix
 
-**Platforms**: GitHub, Vercel, Render
+**DevOps & Cloud Platforms:** 
+- GitHub Actions, Vercel, Render, Docker
 
 </td>
 <td width="50%">
