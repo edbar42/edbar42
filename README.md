@@ -1,6 +1,6 @@
 # Eduardo Barroso
 
-> 👨‍💻 Software Developer | 👨‍🎓 BS in Computer Science (5/8)
+> 👨‍💻 Software Developer | 👨‍🎓 BS in Computer Science (6/8)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-green)](https://linkedin.com/in/edbar42)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:contato@edbar.xyz)
