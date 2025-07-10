@@ -4,8 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-green)](https://linkedin.com/in/edbar42)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:contato@edbar.xyz)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/edbar42_?style=social&label=%40edbar42_)
-![Twitch Status](https://img.shields.io/twitch/status/edbar42)
 
 
 # ⭐ About Me
