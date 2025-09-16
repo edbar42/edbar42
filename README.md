@@ -1,5 +1,3 @@
-# Eduardo Barroso
-
 > 👨‍💻 Software Developer | 👨‍🎓 BS in Computer Science (6/8)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-green)](https://linkedin.com/in/edbar42)
@@ -17,10 +15,10 @@ I strive to create robust applications that reflect these principles.
 <td width="50%" valign="top">
 
 **Languages**: 
-- Go, JavaScript, TypeScript, Elixir, Python
+- Go, TypeScript, Java
 
 **Frameworks**: 
-- Gin, Echo, Node, Phoenix, Flask
+- Gin, React, Spring Boot
 
 **DevOps & Cloud Platforms:** 
 - GitHub Actions, Vercel, Docker
@@ -35,5 +33,4 @@ I strive to create robust applications that reflect these principles.
 # 🎯 Professional Goals
 - Advancing my career as a software developer
 - Creating clean, efficient software solutions
-- Continuously learning command line tools and technologies
 - Contributing to open-source projects and collaborating with the developer community
