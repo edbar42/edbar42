@@ -1,27 +1,40 @@
-> 👨‍💻 Software Developer | 👨‍🎓 BS in Computer Science (6/8)
+# 👋 Hi, I'm Eduardo Barroso
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-green)](https://linkedin.com/in/edbar42)
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:contato@edbar.xyz)
+> 💻 Fullstack Web Developer | 🎓 CS Student (7/8) | 🐧 Linux Enthusiast
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/edbar42)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail)](mailto:edbar42@proton.me)
+[![GitLab](https://img.shields.io/badge/GitLab-Follow-330F63?logo=gitlab)](https://gitlab.com/edbar42)
 
-# ⭐ About Me
-I believe software should avoid unnecessary bloat and focus on doing its purpose exceptionally well. 
+## 🚀 About Me
 
-I strive to create robust applications that reflect these principles.
+I believe software should avoid unnecessary bloat and focus on doing its purpose exceptionally well. I strive to create robust, efficient applications that reflect these values.
 
-# 🛠️ Technical Skills
+Currently working as a **Junior Fullstack Web Developer** at Dataprev.
+
+I am a bit more active on Gitlab than here.
+
+## 🛠️ Technical Skills
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Languages**: 
-- Go, TypeScript, Java
+**Languages & Frameworks:**
 
-**Frameworks**: 
-- Gin, React, Spring Boot
+- TypeScript (React)
+- Java (Spring Boot)
+- Go (Echo, Gin)
+- Python
 
-**DevOps & Cloud Platforms:** 
-- GitHub Actions, Vercel, Docker
+**DevOps & Tools:**
+
+- Git, Docker
+- Gitlab/Github Actions
+
+**Databases:**
+
+- PostgreSQL, MySQL, OracleDB
 
 </td>
 <td width="50%">
@@ -29,8 +42,3 @@ I strive to create robust applications that reflect these principles.
 </td>
 </tr>
 </table>
-
-# 🎯 Professional Goals
-- Advancing my career as a software developer
-- Creating clean, efficient software solutions
-- Contributing to open-source projects and collaborating with the developer community
