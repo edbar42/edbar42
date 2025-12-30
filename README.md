@@ -16,10 +16,6 @@ I am a bit more active on Gitlab than here.
 
 ## 🛠️ Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Languages & Frameworks:**
 
 - TypeScript (React)
@@ -35,10 +31,3 @@ I am a bit more active on Gitlab than here.
 **Databases:**
 
 - PostgreSQL, MySQL, OracleDB
-
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=edbar42&layout=compact" />
-</td>
-</tr>
-</table>
