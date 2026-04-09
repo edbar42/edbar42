@@ -19,9 +19,8 @@ I am a bit more active on Gitlab than here.
 **Languages & Frameworks:**
 
 - TypeScript (React)
-- Java (Spring Boot)
+- C# (ASP.NET)
 - Go (Echo, Gin)
-- Python
 
 **DevOps & Tools:**
 
