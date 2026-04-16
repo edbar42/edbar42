@@ -10,9 +10,7 @@
 
 I believe software should avoid unnecessary bloat and focus on doing its purpose exceptionally well. I strive to create robust, efficient applications that reflect these values.
 
-Currently working as a **Junior Fullstack Web Developer** at Dataprev.
-
-I am a bit more active on Gitlab than here.
+Currently working as a **Junior Fullstack Web Developer** at [Suri](https://www.suri.ai/#).
 
 ## 🛠️ Technical Skills
 
